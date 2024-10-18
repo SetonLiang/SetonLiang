@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--
-![SetonLiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=SetonLiang&show_icons=true&theme=transparent)
+![SetonLiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=SetonLiang)
 -->
 
 <a href="https://github.com/SetonLiang/github-readme-stats">
@@ -25,6 +25,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/SetonLiang/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SetonLiang&layout=compact&langs_count=8&card_width=250" />
 </a>
-
-![SetonLiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=SetonLiang&show_icons=true&theme=transparent)
-![SetonLiang](https://github-readme-stats.vercel.app/api/top-langs/?username=SetonLiang&layout=compact)
