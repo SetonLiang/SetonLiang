@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </a>
 
 ![SetonLiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=SetonLiang&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![SetonLiang](https://github-readme-stats.vercel.app/api/top-langs/?username=SetonLiang&layout=compact)
 
 
 
