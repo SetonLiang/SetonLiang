@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/SetonLiang/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SetonLiang" />
-</a>
-<a href="https://github.com/SetonLiang/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SetonLiang&layout=compact&langs_count=8&card_width=250" />
-</a>
+
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=SetonLiang" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SetonLiang&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
