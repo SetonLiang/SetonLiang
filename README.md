@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 </a>
 
 ![SetonLiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=SetonLiang&show_icons=true&theme=transparent)
+[![SetonLiang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SetonLiang&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/SetonLiang/github-readme-stats#gh-dark-mode-only)
+[![SetonLiang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SetonLiang&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/SetonLiang/github-readme-stats#gh-light-mode-only)
