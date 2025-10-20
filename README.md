@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ![SetonLiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=SetonLiang)
 -->
 
+#### :bar_chart: [Weekly Coding Time]
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
