@@ -29,7 +29,7 @@ HKUST(GZ) Ph.D student in DSA
 - ⚡ Google Scholar: [Simon](https://scholar.google.com/citations?user=cjXF-ZIAAAAJ&hl=zh-CN)  
 - 📫 Email: simonliang484@gmail.com  
 
-<br>
+
 
 #### :bar_chart: [Weekly Coding Time]
 <!--START_SECTION:waka-->
