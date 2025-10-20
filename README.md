@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 ![SetonLiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=SetonLiang)
 -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 [<img src="https://github-readme-stats.vercel.app/api?username=SetonLiang&show_icons=true&theme=transparent&locale=en" width="50%" align="right" />](https://metrics.lecoq.io/SetonLiang#gh-light-mode-only)
 
