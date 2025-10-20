@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Simon here👋
 
 <!--
 **SetonLiang/SetonLiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,9 +19,13 @@ Here are some ideas to get you started:
 ![SetonLiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=SetonLiang)
 -->
 
-<a href="https://github.com/SetonLiang/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SetonLiang&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/SetonLiang/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SetonLiang&layout=compact&langs_count=8&card_width=250" />
-</a>
+
+[<img src="https://github-readme-stats.vercel.app/api?username=SetonLiang&show_icons=true&theme=transparent&locale=en" width="50%" align="right" />](https://metrics.lecoq.io/SetonLiang#gh-light-mode-only)
+
+### 👋 HKUST(GZ) Ph.D student in DSA  
+
+- 🔨 Python / React / JavaScript  
+- 🌱 Homepage: [Simon](https://setonliang.github.io)  
+- ⚡ Google Scholar: [Simon](https://scholar.google.com/citations?user=cjXF-ZIAAAAJ&hl=zh-CN)  
+- 📫 Email: simonliang484@gmail.com  
+
