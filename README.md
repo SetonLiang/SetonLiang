@@ -28,26 +28,11 @@ HKUST(GZ) Ph.D student in DSA
 - 🌱 Homepage: [Simon](https://setonliang.github.io)  
 - ⚡ Google Scholar: [Simon](https://scholar.google.com/citations?user=cjXF-ZIAAAAJ&hl=zh-CN)  
 - 📫 Email: simonliang484@gmail.com  
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue)
 
 
 #### :bar_chart: [Weekly Coding Time]
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 3.1 MB Used in GitHub's Storage 
- > 
-> 🏆 59 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
-**I Mostly Code in Python** 
 
 ```text
 Python                   20 repos            ███████████████████░░░░░░   76.92 % 
