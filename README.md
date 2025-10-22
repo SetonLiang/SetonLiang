@@ -29,7 +29,7 @@ HKUST(GZ) Ph.D student in DSA
 - ⚡ Google Scholar: [Simon](https://scholar.google.com/citations?user=cjXF-ZIAAAAJ&hl=zh-CN)  
 - 📫 Email: simonliang484@gmail.com  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SetonLiang&label=Visitors&color=0e75b6" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=SetonLiang&label=Visitors&color=0e75b6" /> -->
   <img src="https://img.shields.io/badge/💪-Hardworking-0E8A16?style=flat-square" />
   <img src="https://img.shields.io/badge/🧠-Curious-0078D7?style=flat-square" />
   <img src="https://img.shields.io/badge/🎨-Creative-FF69B4?style=flat-square" />
