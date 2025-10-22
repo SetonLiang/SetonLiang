@@ -28,7 +28,7 @@ HKUST(GZ) Ph.D student in DSA
 - 🌱 Homepage: [Simon](https://setonliang.github.io)  
 - ⚡ Google Scholar: [Simon](https://scholar.google.com/citations?user=cjXF-ZIAAAAJ&hl=zh-CN)  
 - 📫 Email: simonliang484@gmail.com  
-![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
+![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2051%20mins-blue)
 
 #### :bar_chart: [Weekly Coding Time]
