@@ -28,10 +28,15 @@ HKUST(GZ) Ph.D student in DSA
 - 🌱 Homepage: [Simon](https://setonliang.github.io)  
 - ⚡ Google Scholar: [Simon](https://scholar.google.com/citations?user=cjXF-ZIAAAAJ&hl=zh-CN)  
 - 📫 Email: simonliang484@gmail.com  
-![](https://visitor-badge.glitch.me/badge?page_id=setonliang.readme)
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2051%20mins-blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SetonLiang&label=Visitors&color=0e75b6" />
+  <img src="https://img.shields.io/badge/💪-Hardworking-0E8A16?style=flat-square" />
+  <img src="https://img.shields.io/badge/🧠-Curious-0078D7?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎨-Creative-FF69B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/✨-Optimistic-FF8C00?style=flat-square" />
+</p>
 
-#### :bar_chart: [Weekly Coding Time]
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
