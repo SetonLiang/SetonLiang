@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 
-[<img src="https://github-readme-stats.vercel.app/api?username=SetonLiang&show_icons=true&theme=transparent&locale=en" width="50%" align="right" />](https://metrics.lecoq.io/SetonLiang#gh-light-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SetonLiang)
 
 HKUST(GZ) Ph.D student in DSA  
 - 🔭 Information Extraction, RAG, Document AI, Agent
