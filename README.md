@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 ![SetonLiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=SetonLiang)
 -->
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SetonLiang&show_icons=true&theme=transparent)](https://github.com/SetonLiang)
-
+![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SetonLiang&show_icons=true&theme=radical)
 
 HKUST(GZ) Ph.D student in DSA  
 - 🔭 Information Extraction, RAG, Document AI, Agent
