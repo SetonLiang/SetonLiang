@@ -37,17 +37,6 @@ HKUST(GZ) Ph.D student in DSA
 
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-JSON                     5 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   38.95 % 
-Python                   3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-Bash                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Other                    1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Markdown                 1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-```
-
-
- Last Updated on 27/05/2026 18:20:15 UTC
+ Last Updated on 28/05/2026 18:30:17 UTC
 <!--END_SECTION:waka-->
