@@ -41,13 +41,13 @@ HKUST(GZ) Ph.D student in DSA
 
 ```text
 💬 Programming Languages: 
-JSON                     4 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   36.02 % 
-Python                   2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-Markdown                 2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Other                    1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-YAML                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+JSON                     4 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.41 % 
+Python                   2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Markdown                 2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+YAML                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Other                    1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
 ```
 
 
- Last Updated on 12/06/2026 17:59:56 UTC
+ Last Updated on 13/06/2026 17:13:22 UTC
 <!--END_SECTION:waka-->
