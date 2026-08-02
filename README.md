@@ -43,19 +43,19 @@ HKUST(GZ) Ph.D student in DSA
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   41.26 % 
-Markdown                 2 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.55 % 
-JSON                     2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Other                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Python                   4 hrs 36 mins       ███████████░░░░░░░░░░░░░░   43.61 % 
+Markdown                 2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+JSON                     1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Other                    1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 6 mins (72.64%)
+⏱ AI Coding Time: 8 hrs 6 mins (76.79%)
 
-✍️ 3,003 lines written by AI, 4,572 lines written by hand (39.64% AI-written)
+✍️ 3,003 lines written by AI, 4,088 lines written by hand (42.35% AI-written)
 
 🔤 65,240,210 Input Tokens, 308,108 Output Tokens
 
@@ -66,12 +66,12 @@ YAML                     16 mins             █░░░░░░░░░░�
 GPT                      3,138 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.64% of written lines came from AI
+⚖️ Balanced with AI — 42.35% of written lines came from AI
 📝 Concise Prompter — average 210 characters per prompt
 🔁 Iterative Prompter — average 34 prompts per session
-🔍 Hands-On Reviewer — 68.15% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 65.9% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/08/2026 16:51:08 UTC
+ Last Updated on 02/08/2026 16:49:50 UTC
 <!--END_SECTION:waka-->
