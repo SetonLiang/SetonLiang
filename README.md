@@ -43,36 +43,36 @@ HKUST(GZ) Ph.D student in DSA
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   37.76 % 
-JSON                     4 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.28 % 
-Other                    3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-YAML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Python                   4 hrs 36 mins       ███████████░░░░░░░░░░░░░░   42.56 % 
+Other                    2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+JSON                     2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+YAML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 16 mins (55.02%)
+⏱ AI Coding Time: 8 hrs 56 mins (82.53%)
 
-✍️ 2,855 lines written by AI, 14,930 lines written by hand (16.05% AI-written)
+✍️ 2,765 lines written by AI, 4,392 lines written by hand (38.63% AI-written)
 
-🔤 11,594,054 Input Tokens, 539,703 Output Tokens
+🔤 10,997,159 Input Tokens, 534,968 Output Tokens
 
-💵 $80.33 Estimated AI Cost This Week
+💵 $78.77 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 572 AI Prompts
+🧠 29 AI Sessions, 402 AI Prompts
 
-GPT                      3,155 lines         █████████████████████████   100.00 % 
+GPT                      3,065 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 16.05% of written lines came from AI
-📚 Verbose Prompter — average 1,832 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
-🔍 Hands-On Reviewer — 83.44% of changed lines were hand-edited
+⚖️ Balanced with AI — 38.63% of written lines came from AI
+📚 Verbose Prompter — average 2,568 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 60.01% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/08/2026 16:46:13 UTC
+ Last Updated on 14/08/2026 16:41:19 UTC
 <!--END_SECTION:waka-->
