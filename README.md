@@ -37,7 +37,7 @@ HKUST(GZ) Ph.D student in DSA
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-303%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-311%20hrs%2051%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -74,5 +74,5 @@ Composer                 0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 31/08/2026 21:13:53 UTC
+ Last Updated on 01/09/2026 19:02:30 UTC
 <!--END_SECTION:waka-->
