@@ -37,42 +37,42 @@ HKUST(GZ) Ph.D student in DSA
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-323%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-334%20hrs-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JSON                     16 hrs 29 mins      ████████░░░░░░░░░░░░░░░░░   30.39 % 
-Python                   13 hrs 1 min        ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-Markdown                 9 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Other                    7 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-YAML                     6 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+JSON                     17 hrs 51 mins      ████████░░░░░░░░░░░░░░░░░   31.29 % 
+Python                   13 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+Markdown                 8 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+YAML                     7 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Other                    7 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 hrs 13 mins (98.05%)
+⏱ AI Coding Time: 56 hrs 12 mins (98.5%)
 
-✍️ 8,466 lines written by AI, 3,637 lines written by hand (69.95% AI-written)
+✍️ 8,025 lines written by AI, 927 lines written by hand (89.64% AI-written)
 
-🔤 18,778,839 Input Tokens, 8,160,856 Output Tokens
+🔤 19,516,497 Input Tokens, 7,415,311 Output Tokens
 
-💵 $351.90 Estimated AI Cost This Week
+💵 $355.83 Estimated AI Cost This Week
 
-🧠 133 AI Sessions, 6071 AI Prompts
+🧠 111 AI Sessions, 5958 AI Prompts
 
-GPT                      9,450 lines         █████████████████████████   100.00 % 
+GPT                      8,839 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.95% of written lines came from AI
-📚 Verbose Prompter — average 4,490 characters per prompt
-🔁 Iterative Prompter — average 46 prompts per session
-🔍 Hands-On Reviewer — 92.5% of changed lines were hand-edited
+🤖 AI-Driven — 89.64% of written lines came from AI
+📚 Verbose Prompter — average 3,999 characters per prompt
+🔁 Iterative Prompter — average 54 prompts per session
+🔍 Hands-On Reviewer — 66.86% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/09/2026 19:07:02 UTC
+ Last Updated on 03/09/2026 18:59:36 UTC
 <!--END_SECTION:waka-->
