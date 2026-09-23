@@ -37,8 +37,42 @@ HKUST(GZ) Ph.D student in DSA
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-481%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-487%20hrs-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    16 hrs 50 mins      █████████░░░░░░░░░░░░░░░░   34.29 % 
+Python                   14 hrs 42 mins      ███████░░░░░░░░░░░░░░░░░░   29.96 % 
+JSON                     9 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Markdown                 4 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+YAML                     1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 48 hrs 19 mins (98.36%)
+
+✍️ 2,752 lines written by AI, 8,010 lines written by hand (25.57% AI-written)
+
+🔤 15,350,489 Input Tokens, 2,754,955 Output Tokens
+
+💵 $233.46 Estimated AI Cost This Week
+
+🧠 81 AI Sessions, 2724 AI Prompts
+
+GPT                      2,907 lines         █████████████████████████   100.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 25.57% of written lines came from AI
+📚 Verbose Prompter — average 2,477 characters per prompt
+🔁 Iterative Prompter — average 34 prompts per session
+🔍 Hands-On Reviewer — 74.38% of changed lines were hand-edited
+```
 
 
- Last Updated on 22/09/2026 19:25:11 UTC
+ Last Updated on 23/09/2026 19:20:57 UTC
 <!--END_SECTION:waka-->
