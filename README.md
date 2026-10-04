@@ -43,35 +43,35 @@ HKUST(GZ) Ph.D student in DSA
 
 ```text
 💬 Programming Languages: 
-Other                    11 hrs 4 mins       ███████████░░░░░░░░░░░░░░   42.18 % 
-Python                   4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-JSON                     3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Markdown                 3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-YAML                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Other                    8 hrs 24 mins       ████████████░░░░░░░░░░░░░   46.27 % 
+Python                   3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Markdown                 2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+YAML                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+JSON                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 41 mins (52.16%)
+⏱ AI Coding Time: 8 hrs 27 mins (46.52%)
 
-✍️ 2,038 lines written by AI, 38,667 lines written by hand (5.01% AI-written)
+✍️ 1,515 lines written by AI, 20,457 lines written by hand (6.9% AI-written)
 
-🔤 5,929,691 Input Tokens, 501,665 Output Tokens
+🔤 2,829,299 Input Tokens, 318,058 Output Tokens
 
-💵 $85.29 Estimated AI Cost This Week
+💵 $53.87 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 268 AI Prompts
+🧠 14 AI Sessions, 179 AI Prompts
 
-GPT                      2,205 lines         █████████████████████████   100.00 % 
+GPT                      1,568 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.01% of written lines came from AI
-📝 Concise Prompter — average 286 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 95.01% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 6.9% of written lines came from AI
+📝 Concise Prompter — average 305 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🔍 Hands-On Reviewer — 93.82% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/10/2026 18:54:23 UTC
+ Last Updated on 04/10/2026 18:53:53 UTC
 <!--END_SECTION:waka-->
