@@ -43,35 +43,31 @@ HKUST(GZ) Ph.D student in DSA
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 34 mins        █████████████░░░░░░░░░░░░   50.13 % 
-HTML                     33 mins             █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-YAML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Markdown                 25 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 24 mins (76.79%)
+⏱ AI Coding Time: 21 mins (86.96%)
 
-✍️ 643 lines written by AI, 15 lines written by hand (97.72% AI-written)
+✍️ 37 lines written by AI, 1 lines written by hand (97.37% AI-written)
 
-🔤 447,894 Input Tokens, 100,217 Output Tokens
+🔤 29,053 Input Tokens, 13,654 Output Tokens
 
-💵 $26.12 Estimated AI Cost This Week
+💵 $15.30 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 42 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
-GPT                      652 lines           █████████████████████████   100.00 % 
+GPT                      90 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.72% of written lines came from AI
-📝 Concise Prompter — average 405 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 5.78% of changed lines were hand-edited
+🤖 AI-Driven — 97.37% of written lines came from AI
+📚 Verbose Prompter — average 1,856 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 2.63% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/10/2026 20:41:08 UTC
+ Last Updated on 07/10/2026 20:54:48 UTC
 <!--END_SECTION:waka-->
