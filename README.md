@@ -43,35 +43,35 @@ HKUST(GZ) Ph.D student in DSA
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   31.01 % 
-TypeScript               3 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-CSS                      1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-JSON                     1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-HTML                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Python                   4 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   30.91 % 
+TypeScript               3 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+CSS                      1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+JSON                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Other                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs (80.0%)
+⏱ AI Coding Time: 12 hrs 52 mins (79.68%)
 
-✍️ 6,485 lines written by AI, 84 lines written by hand (98.72% AI-written)
+✍️ 6,513 lines written by AI, 87 lines written by hand (98.68% AI-written)
 
-🔤 4,221,896 Input Tokens, 824,033 Output Tokens
+🔤 4,449,768 Input Tokens, 872,019 Output Tokens
 
-💵 $125.41 Estimated AI Cost This Week
+💵 $131.12 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 274 AI Prompts
+🧠 20 AI Sessions, 287 AI Prompts
 
-GPT                      7,618 lines         █████████████████████████   100.00 % 
+GPT                      7,662 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.72% of written lines came from AI
-📝 Concise Prompter — average 126 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 1.52% of changed lines were hand-edited
+🤖 AI-Driven — 98.68% of written lines came from AI
+📝 Concise Prompter — average 175 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 1.58% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/10/2026 19:48:51 UTC
+ Last Updated on 12/10/2026 22:40:11 UTC
 <!--END_SECTION:waka-->
