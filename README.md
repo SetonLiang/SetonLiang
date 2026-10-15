@@ -37,41 +37,8 @@ HKUST(GZ) Ph.D student in DSA
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-533%20hrs%2031%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   6 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Markdown                 5 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Other                    5 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-TypeScript               4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-CSS                      3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 28 hrs 1 min (85.23%)
-
-✍️ 10,938 lines written by AI, 874 lines written by hand (92.6% AI-written)
-
-🔤 8,212,178 Input Tokens, 1,652,873 Output Tokens
-
-💵 $190.29 Estimated AI Cost This Week
-
-🧠 26 AI Sessions, 515 AI Prompts
-
-GPT                      12,264 lines        █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 92.6% of written lines came from AI
-📝 Concise Prompter — average 179 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 7.04% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-541%20hrs%2055%20mins-blue?style=flat)
 
 
- Last Updated on 14/10/2026 19:51:42 UTC
+ Last Updated on 15/10/2026 19:34:43 UTC
 <!--END_SECTION:waka-->
