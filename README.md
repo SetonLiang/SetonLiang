@@ -43,35 +43,35 @@ HKUST(GZ) Ph.D student in DSA
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-Other                    4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Python                   3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Bash                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-JSON                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Markdown                 5 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+Other                    4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Python                   3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Bash                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Docker                   1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 36 mins (84.91%)
+⏱ AI Coding Time: 18 hrs 31 mins (84.54%)
 
-✍️ 9,653 lines written by AI, 1,209 lines written by hand (88.87% AI-written)
+✍️ 6,626 lines written by AI, 1,190 lines written by hand (84.77% AI-written)
 
-🔤 7,125,169 Input Tokens, 1,353,030 Output Tokens
+🔤 5,733,802 Input Tokens, 1,056,321 Output Tokens
 
-💵 $120.27 Estimated AI Cost This Week
+💵 $80.92 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 394 AI Prompts
+🧠 12 AI Sessions, 296 AI Prompts
 
-GPT                      10,186 lines        █████████████████████████   100.00 % 
+GPT                      6,831 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.87% of written lines came from AI
-📝 Concise Prompter — average 188 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 12.42% of changed lines were hand-edited
+🤖 AI-Driven — 84.77% of written lines came from AI
+📝 Concise Prompter — average 215 characters per prompt
+🔁 Iterative Prompter — average 25 prompts per session
+🚀 High AI Trust — 16.33% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/10/2026 18:03:32 UTC
+ Last Updated on 18/10/2026 18:22:19 UTC
 <!--END_SECTION:waka-->
