@@ -37,31 +37,31 @@ HKUST(GZ) Ph.D student in DSA
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-558%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-566%20hrs%2012%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   38.34 % 
-Markdown                 7 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-Other                    3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-JSON                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-TypeScript               1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Python                   10 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   38.22 % 
+Markdown                 7 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.68 % 
+Other                    3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+JSON                     2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+TypeScript               1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 50 mins (82.43%)
+⏱ AI Coding Time: 21 hrs 46 mins (81.87%)
 
-✍️ 14,383 lines written by AI, 1,159 lines written by hand (92.54% AI-written)
+✍️ 14,383 lines written by AI, 1,160 lines written by hand (92.54% AI-written)
 
-🔤 7,878,945 Input Tokens, 1,496,468 Output Tokens
+🔤 7,742,827 Input Tokens, 1,489,757 Output Tokens
 
-💵 $62.37 Estimated AI Cost This Week
+💵 $61.30 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 345 AI Prompts
+🧠 21 AI Sessions, 341 AI Prompts
 
 GPT                      14,702 lines        █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -74,5 +74,5 @@ Opus                     0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 22/10/2026 19:39:00 UTC
+ Last Updated on 23/10/2026 19:39:15 UTC
 <!--END_SECTION:waka-->
