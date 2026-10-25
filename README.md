@@ -43,17 +43,17 @@ HKUST(GZ) Ph.D student in DSA
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   38.22 % 
-Markdown                 7 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-Other                    3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-JSON                     2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-TypeScript               1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Python                   10 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   38.12 % 
+Markdown                 7 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+Other                    3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+JSON                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+TypeScript               1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 46 mins (81.87%)
+⏱ AI Coding Time: 21 hrs 46 mins (81.67%)
 
 ✍️ 14,383 lines written by AI, 1,160 lines written by hand (92.54% AI-written)
 
@@ -74,5 +74,5 @@ Opus                     0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 24/10/2026 18:27:40 UTC
+ Last Updated on 25/10/2026 18:37:54 UTC
 <!--END_SECTION:waka-->
