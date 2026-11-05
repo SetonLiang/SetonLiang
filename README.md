@@ -21,12 +21,13 @@ Here are some ideas to get you started:
 
 [<img src="https://github-readme-stats.vercel.app/api?username=SetonLiang&show_icons=true&theme=transparent&locale=en" width="50%" align="right" />](https://metrics.lecoq.io/SetonLiang#gh-light-mode-only)
 
-HKUST(GZ) Ph.D student in DSA  
-- 🔭 Information Extraction, RAG, Document AI, Agent
+HKUST(GZ) Ph.D student in DSA | Open to Intern Opportunities!!!  
+- 🔭 Document AI, Data Agent, Information Extraction
 - 🔨 Python / React / JavaScript  
 - 🌱 Homepage: [Simon](https://setonliang.github.io)  
 - ⚡ Google Scholar: [Simon](https://scholar.google.com/citations?user=cjXF-ZIAAAAJ&hl=zh-CN)  
-- 📫 Email: simonliang484@gmail.com  
+- 📫 Email: simonliang484@gmail.com
+
 <p align="center">
   <!-- <img src="https://komarev.com/ghpvc/?username=SetonLiang&label=Visitors&color=0e75b6" /> -->
   <img src="https://img.shields.io/badge/💪-Hardworking-0E8A16?style=flat-square" />
